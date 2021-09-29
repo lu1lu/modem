@@ -1,2 +1,2 @@
 # modem
-3gpp protocol terminal side learn
+3gpp protocol terminal side
